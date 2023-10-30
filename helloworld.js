@@ -1,7 +1,7 @@
-console.log ("Programa para imprimir tu nombre");
-const name = "Santiago Rodríguez Sánchez")
+console.log ("Programa para imprimir la clase");
+const name = "2ASIR"
 let number = 5;
 
 for (let i =0; i<number; i++){
-	console.log(name)
+	console.log(name);
 }
